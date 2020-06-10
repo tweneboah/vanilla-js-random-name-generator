@@ -1,0 +1,1 @@
+# vanilla-js-random-name-generator
